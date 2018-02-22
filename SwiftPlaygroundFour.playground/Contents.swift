@@ -33,3 +33,27 @@ while i <= 10
 }
 
 //finished Swift Playgrounds Four
+
+
+
+//Coding Challenge #1
+
+var b = 1
+while b <= 3
+{
+    print(b)
+    b = b + 1
+    
+}
+
+
+//Coding Challenge #2
+
+var newSum = 10
+for number in 1...10
+{
+    
+    newSum = (number - 1)
+    print(newSum)
+    
+}
